@@ -1,0 +1,677 @@
+Category,Sub Category,Year,Amount
+Household,Groceries,2000,463.1
+Household,Groceries,2001,482.2
+Household,Groceries,2002,490.4
+Household,Groceries,2003,513.6
+Household,Groceries,2004,543
+Household,Groceries,2005,575.3
+Household,Groceries,2006,601.6
+Household,Groceries,2007,634.7
+Household,Groceries,2008,667.7
+Household,Groceries,2009,663.4
+Household,Groceries,2010,675.9
+Household,Groceries,2011,715.4
+Household,Groceries,2012,740.9
+Vices,Alcohol,2000,77.1
+Vices,Alcohol,2001,81.5
+Vices,Alcohol,2002,84.4
+Vices,Alcohol,2003,85.7
+Vices,Alcohol,2004,89.3
+Vices,Alcohol,2005,92.6
+Vices,Alcohol,2006,98.2
+Vices,Alcohol,2007,102.2
+Vices,Alcohol,2008,104.7
+Vices,Alcohol,2009,106.1
+Vices,Alcohol,2010,112.6
+Vices,Alcohol,2011,117.2
+Vices,Alcohol,2012,121.8
+Clothes,Clothing,2000,230
+Clothes,Clothing,2001,227.2
+Clothes,Clothing,2002,228
+Clothes,Clothing,2003,232.7
+Clothes,Clothing,2004,242.3
+Clothes,Clothing,2005,251.4
+Clothes,Clothing,2006,257
+Clothes,Clothing,2007,258.7
+Clothes,Clothing,2008,254.7
+Clothes,Clothing,2009,244.3
+Clothes,Clothing,2010,255.3
+Clothes,Clothing,2011,269.3
+Clothes,Clothing,2012,282.2
+Household,Dry Cleaning,2000,11
+Household,Dry Cleaning,2001,11.2
+Household,Dry Cleaning,2002,11.3
+Household,Dry Cleaning,2003,11.2
+Household,Dry Cleaning,2004,11.2
+Household,Dry Cleaning,2005,11.2
+Household,Dry Cleaning,2006,11.5
+Household,Dry Cleaning,2007,11.5
+Household,Dry Cleaning,2008,11.3
+Household,Dry Cleaning,2009,10.9
+Household,Dry Cleaning,2010,11
+Household,Dry Cleaning,2011,11.2
+Household,Dry Cleaning,2012,11.6
+Clothes,Shoes,2000,46.9
+Clothes,Shoes,2001,46.6
+Clothes,Shoes,2002,46.3
+Clothes,Shoes,2003,48.1
+Clothes,Shoes,2004,50.8
+Clothes,Shoes,2005,55.1
+Clothes,Shoes,2006,59.2
+Clothes,Shoes,2007,61.2
+Clothes,Shoes,2008,61.2
+Clothes,Shoes,2009,58.5
+Clothes,Shoes,2010,61.5
+Clothes,Shoes,2011,65.3
+Clothes,Shoes,2012,68.6
+Household,Housing,2000,1010.5
+Household,Housing,2001,1085.5
+Household,Housing,2002,1133.3
+Household,Housing,2003,1177.1
+Household,Housing,2004,1242.2
+Household,Housing,2005,1332.5
+Household,Housing,2006,1416.2
+Household,Housing,2007,1480
+Household,Housing,2008,1543.7
+Household,Housing,2009,1591.6
+Household,Housing,2010,1609.7
+Household,Housing,2011,1660
+Household,Housing,2012,1719.9
+Household,Utilities,2000,204
+Household,Utilities,2001,217.5
+Household,Utilities,2002,214.5
+Household,Utilities,2003,234.4
+Household,Utilities,2004,246.2
+Household,Utilities,2005,273.5
+Household,Utilities,2006,289.9
+Household,Utilities,2007,303.8
+Household,Utilities,2008,326.2
+Household,Utilities,2009,313.7
+Household,Utilities,2010,325.5
+Household,Utilities,2011,330.3
+Household,Utilities,2012,320.7
+Household,Home Goods,2000,343.4
+Household,Home Goods,2001,352.4
+Household,Home Goods,2002,365.3
+Household,Home Goods,2003,380.4
+Household,Home Goods,2004,407.1
+Household,Home Goods,2005,431.2
+Household,Home Goods,2006,449.9
+Household,Home Goods,2007,453.7
+Household,Home Goods,2008,442
+Household,Home Goods,2009,409.8
+Household,Home Goods,2010,417.3
+Household,Home Goods,2011,434.5
+Household,Home Goods,2012,458.3
+Health,Medication,2000,159
+Health,Medication,2001,181
+Health,Medication,2002,200.2
+Health,Medication,2003,220.2
+Health,Medication,2004,236.3
+Health,Medication,2005,248.5
+Health,Medication,2006,276.2
+Health,Medication,2007,293.4
+Health,Medication,2008,305.2
+Health,Medication,2009,320.9
+Health,Medication,2010,334.1
+Health,Medication,2011,353.2
+Health,Medication,2012,370
+Health,Outpatient Services,2000,436.6
+Health,Outpatient Services,2001,475.8
+Health,Outpatient Services,2002,514.7
+Health,Outpatient Services,2003,550.6
+Health,Outpatient Services,2004,590.5
+Health,Outpatient Services,2005,626.2
+Health,Outpatient Services,2006,653
+Health,Outpatient Services,2007,689.9
+Health,Outpatient Services,2008,725.6
+Health,Outpatient Services,2009,744.7
+Health,Outpatient Services,2010,767.9
+Health,Outpatient Services,2011,797.2
+Health,Outpatient Services,2012,827.5
+Health,Physician Services,2000,229.2
+Health,Physician Services,2001,249.3
+Health,Physician Services,2002,269.3
+Health,Physician Services,2003,291.5
+Health,Physician Services,2004,314.2
+Health,Physician Services,2005,333.9
+Health,Physician Services,2006,348.5
+Health,Physician Services,2007,365.7
+Health,Physician Services,2008,383.7
+Health,Physician Services,2009,392.8
+Health,Physician Services,2010,402.8
+Health,Physician Services,2011,418.4
+Health,Physician Services,2012,433.9
+Health,Dental,2000,63.6
+Health,Dental,2001,69.3
+Health,Dental,2002,75.6
+Health,Dental,2003,77.8
+Health,Dental,2004,83.3
+Health,Dental,2005,87.9
+Health,Dental,2006,91.5
+Health,Dental,2007,97
+Health,Dental,2008,102
+Health,Dental,2009,102.1
+Health,Dental,2010,104.5
+Health,Dental,2011,106.8
+Health,Dental,2012,109.4
+Health,Paramedical,2000,143.8
+Health,Paramedical,2001,157.2
+Health,Paramedical,2002,169.8
+Health,Paramedical,2003,181.3
+Health,Paramedical,2004,193
+Health,Paramedical,2005,204.4
+Health,Paramedical,2006,213
+Health,Paramedical,2007,227.2
+Health,Paramedical,2008,240
+Health,Paramedical,2009,249.8
+Health,Paramedical,2010,260.6
+Health,Paramedical,2011,272.1
+Health,Paramedical,2012,284.2
+Health,Hospital,2000,393.9
+Health,Hospital,2001,427.1
+Health,Hospital,2002,469.5
+Health,Hospital,2003,498.4
+Health,Hospital,2004,537.9
+Health,Hospital,2005,577.2
+Health,Hospital,2006,617
+Health,Hospital,2007,658.1
+Health,Hospital,2008,690.1
+Health,Hospital,2009,736.6
+Health,Hospital,2010,770.5
+Health,Hospital,2011,811.4
+Health,Hospital,2012,861.2
+Health,Nursing Homes,2000,87.9
+Health,Nursing Homes,2001,93.7
+Health,Nursing Homes,2002,98.6
+Health,Nursing Homes,2003,105.7
+Health,Nursing Homes,2004,111.8
+Health,Nursing Homes,2005,119
+Health,Nursing Homes,2006,124.2
+Health,Nursing Homes,2007,133.8
+Health,Nursing Homes,2008,140.8
+Health,Nursing Homes,2009,146.1
+Health,Nursing Homes,2010,152.3
+Health,Nursing Homes,2011,159.2
+Health,Nursing Homes,2012,159
+Vehicles,New Vehicles,2000,210.7
+Vehicles,New Vehicles,2001,230
+Vehicles,New Vehicles,2002,243.6
+Vehicles,New Vehicles,2003,251.6
+Vehicles,New Vehicles,2004,252.4
+Vehicles,New Vehicles,2005,248.9
+Vehicles,New Vehicles,2006,233
+Vehicles,New Vehicles,2007,233.2
+Vehicles,New Vehicles,2008,185.2
+Vehicles,New Vehicles,2009,165.6
+Vehicles,New Vehicles,2010,182.3
+Vehicles,New Vehicles,2011,207.8
+Vehicles,New Vehicles,2012,236.8
+Vehicles,Used Vehicles,2000,110.7
+Vehicles,Used Vehicles,2001,112
+Vehicles,Used Vehicles,2002,116.1
+Vehicles,Used Vehicles,2003,105.8
+Vehicles,Used Vehicles,2004,109.8
+Vehicles,Used Vehicles,2005,110.5
+Vehicles,Used Vehicles,2006,108.5
+Vehicles,Used Vehicles,2007,111.2
+Vehicles,Used Vehicles,2008,99.6
+Vehicles,Used Vehicles,2009,99.7
+Vehicles,Used Vehicles,2010,104.2
+Vehicles,Used Vehicles,2011,101.4
+Vehicles,Used Vehicles,2012,103.1
+Vehicles,Vehicle Parts,2000,41.8
+Vehicles,Vehicle Parts,2001,41.3
+Vehicles,Vehicle Parts,2002,41.7
+Vehicles,Vehicle Parts,2003,44.1
+Vehicles,Vehicle Parts,2004,47.1
+Vehicles,Vehicle Parts,2005,50.6
+Vehicles,Vehicle Parts,2006,53.4
+Vehicles,Vehicle Parts,2007,56.2
+Vehicles,Vehicle Parts,2008,54.8
+Vehicles,Vehicle Parts,2009,51.8
+Vehicles,Vehicle Parts,2010,55.5
+Vehicles,Vehicle Parts,2011,59.6
+Vehicles,Vehicle Parts,2012,61.8
+Vehicles,Vehicle Fuel,2000,168.6
+Vehicles,Vehicle Fuel,2001,162.5
+Vehicles,Vehicle Fuel,2002,153.6
+Vehicles,Vehicle Fuel,2003,179
+Vehicles,Vehicle Fuel,2004,213.4
+Vehicles,Vehicle Fuel,2005,261.4
+Vehicles,Vehicle Fuel,2006,295.9
+Vehicles,Vehicle Fuel,2007,319.9
+Vehicles,Vehicle Fuel,2008,358.3
+Vehicles,Vehicle Fuel,2009,260.2
+Vehicles,Vehicle Fuel,2010,307.3
+Vehicles,Vehicle Fuel,2011,379.5
+Vehicles,Vehicle Fuel,2012,390.4
+Vehicles,Vehicle Maintenance,2000,127.4
+Vehicles,Vehicle Maintenance,2001,133.8
+Vehicles,Vehicle Maintenance,2002,136.8
+Vehicles,Vehicle Maintenance,2003,143.5
+Vehicles,Vehicle Maintenance,2004,148.5
+Vehicles,Vehicle Maintenance,2005,155.1
+Vehicles,Vehicle Maintenance,2006,157.3
+Vehicles,Vehicle Maintenance,2007,162.4
+Vehicles,Vehicle Maintenance,2008,158.9
+Vehicles,Vehicle Maintenance,2009,149.2
+Vehicles,Vehicle Maintenance,2010,152.4
+Vehicles,Vehicle Maintenance,2011,161.9
+Vehicles,Vehicle Maintenance,2012,166.4
+Travel,Gound Transportation,2000,22.9
+Travel,Gound Transportation,2001,24.7
+Travel,Gound Transportation,2002,24.6
+Travel,Gound Transportation,2003,25.3
+Travel,Gound Transportation,2004,27.9
+Travel,Gound Transportation,2005,29.6
+Travel,Gound Transportation,2006,32.5
+Travel,Gound Transportation,2007,33.4
+Travel,Gound Transportation,2008,34.8
+Travel,Gound Transportation,2009,34.5
+Travel,Gound Transportation,2010,35.6
+Travel,Gound Transportation,2011,38
+Travel,Gound Transportation,2012,37.1
+Travel,Air Transportation,2000,49.2
+Travel,Air Transportation,2001,42.9
+Travel,Air Transportation,2002,39.5
+Travel,Air Transportation,2003,42.7
+Travel,Air Transportation,2004,44.7
+Travel,Air Transportation,2005,45.4
+Travel,Air Transportation,2006,46.3
+Travel,Air Transportation,2007,47.6
+Travel,Air Transportation,2008,47.4
+Travel,Air Transportation,2009,42.2
+Travel,Air Transportation,2010,42.7
+Travel,Air Transportation,2011,44.3
+Travel,Air Transportation,2012,47.3
+Travel,Water Transportation,2000,2.2
+Travel,Water Transportation,2001,2.3
+Travel,Water Transportation,2002,2.3
+Travel,Water Transportation,2003,2.4
+Travel,Water Transportation,2004,2.5
+Travel,Water Transportation,2005,2.5
+Travel,Water Transportation,2006,2.6
+Travel,Water Transportation,2007,2.8
+Travel,Water Transportation,2008,2.8
+Travel,Water Transportation,2009,2.5
+Travel,Water Transportation,2010,2.7
+Travel,Water Transportation,2011,2.9
+Travel,Water Transportation,2012,3.1
+Household,Phones,2000,5.5
+Household,Phones,2001,5.8
+Household,Phones,2002,6.2
+Household,Phones,2003,7.5
+Household,Phones,2004,8.6
+Household,Phones,2005,9.2
+Household,Phones,2006,11.2
+Household,Phones,2007,13.1
+Household,Phones,2008,13.4
+Household,Phones,2009,12.7
+Household,Phones,2010,12.7
+Household,Phones,2011,13.4
+Household,Phones,2012,13.3
+Household,Postal,2000,9.9
+Household,Postal,2001,9.7
+Household,Postal,2002,9.5
+Household,Postal,2003,9.8
+Household,Postal,2004,10.2
+Household,Postal,2005,10.4
+Household,Postal,2006,11.6
+Household,Postal,2007,11.9
+Household,Postal,2008,12.9
+Household,Postal,2009,12
+Household,Postal,2010,11.7
+Household,Postal,2011,10.8
+Household,Postal,2012,10.4
+Household,Phone Services,2000,126.4
+Household,Phone Services,2001,131.2
+Household,Phone Services,2002,131.3
+Household,Phone Services,2003,130.4
+Household,Phone Services,2004,132.8
+Household,Phone Services,2005,137.7
+Household,Phone Services,2006,144.8
+Household,Phone Services,2007,149
+Household,Phone Services,2008,154
+Household,Phone Services,2009,149.6
+Household,Phone Services,2010,152.1
+Household,Phone Services,2011,156
+Household,Phone Services,2012,160.6
+Household,Internet Access,2000,16.4
+Household,Internet Access,2001,18.2
+Household,Internet Access,2002,21.9
+Household,Internet Access,2003,26.6
+Household,Internet Access,2004,29.5
+Household,Internet Access,2005,29.7
+Household,Internet Access,2006,33.5
+Household,Internet Access,2007,42.3
+Household,Internet Access,2008,50.4
+Household,Internet Access,2009,56.3
+Household,Internet Access,2010,63
+Household,Internet Access,2011,71.3
+Household,Internet Access,2012,80.7
+Household,A/V Computer Equipment,2000,181.2
+Household,A/V Computer Equipment,2001,184.9
+Household,A/V Computer Equipment,2002,191.4
+Household,A/V Computer Equipment,2003,201.4
+Household,A/V Computer Equipment,2004,223.2
+Household,A/V Computer Equipment,2005,239
+Household,A/V Computer Equipment,2006,255.7
+Household,A/V Computer Equipment,2007,269.9
+Household,A/V Computer Equipment,2008,272.7
+Household,A/V Computer Equipment,2009,264.8
+Household,A/V Computer Equipment,2010,276.4
+Household,A/V Computer Equipment,2011,284
+Household,A/V Computer Equipment,2012,295.3
+Household,Sports Equipement,2000,146
+Household,Sports Equipement,2001,150.7
+Household,Sports Equipement,2002,156.1
+Household,Sports Equipement,2003,163
+Household,Sports Equipement,2004,173.6
+Household,Sports Equipement,2005,184.1
+Household,Sports Equipement,2006,193.5
+Household,Sports Equipement,2007,197.7
+Household,Sports Equipement,2008,192
+Household,Sports Equipement,2009,172.6
+Household,Sports Equipement,2010,174.2
+Household,Sports Equipement,2011,181.5
+Household,Sports Equipement,2012,192.8
+Household,Gym Memberships,2000,26.4
+Household,Gym Memberships,2001,26.6
+Household,Gym Memberships,2002,27.5
+Household,Gym Memberships,2003,29.3
+Household,Gym Memberships,2004,31.8
+Household,Gym Memberships,2005,34.3
+Household,Gym Memberships,2006,37.4
+Household,Gym Memberships,2007,40.7
+Household,Gym Memberships,2008,41.2
+Household,Gym Memberships,2009,39.1
+Household,Gym Memberships,2010,39.5
+Household,Gym Memberships,2011,40.2
+Household,Gym Memberships,2012,42.4
+Travel,Amusement Parks,2000,31.1
+Travel,Amusement Parks,2001,31.3
+Travel,Amusement Parks,2002,30.2
+Travel,Amusement Parks,2003,31.4
+Travel,Amusement Parks,2004,32.1
+Travel,Amusement Parks,2005,33.6
+Travel,Amusement Parks,2006,35
+Travel,Amusement Parks,2007,36.8
+Travel,Amusement Parks,2008,38.3
+Travel,Amusement Parks,2009,37.2
+Travel,Amusement Parks,2010,38.8
+Travel,Amusement Parks,2011,41.5
+Travel,Amusement Parks,2012,45.4
+Entertainment,Movies,2000,8.6
+Entertainment,Movies,2001,9
+Entertainment,Movies,2002,9.6
+Entertainment,Movies,2003,9.9
+Entertainment,Movies,2004,10
+Entertainment,Movies,2005,9.7
+Entertainment,Movies,2006,10.4
+Entertainment,Movies,2007,10.9
+Entertainment,Movies,2008,11
+Entertainment,Movies,2009,11.5
+Entertainment,Movies,2010,11.8
+Entertainment,Movies,2011,11.4
+Entertainment,Movies,2012,11.7
+Entertainment,Live Entertainment,2000,10.4
+Entertainment,Live Entertainment,2001,11.1
+Entertainment,Live Entertainment,2002,11.9
+Entertainment,Live Entertainment,2003,13.9
+Entertainment,Live Entertainment,2004,15.9
+Entertainment,Live Entertainment,2005,18.3
+Entertainment,Live Entertainment,2006,20.7
+Entertainment,Live Entertainment,2007,23.6
+Entertainment,Live Entertainment,2008,24.3
+Entertainment,Live Entertainment,2009,25.2
+Entertainment,Live Entertainment,2010,26.3
+Entertainment,Live Entertainment,2011,28.2
+Entertainment,Live Entertainment,2012,29.4
+Entertainment,Live Sports,2000,11.6
+Entertainment,Live Sports,2001,12.2
+Entertainment,Live Sports,2002,13.5
+Entertainment,Live Sports,2003,14.2
+Entertainment,Live Sports,2004,15
+Entertainment,Live Sports,2005,15.7
+Entertainment,Live Sports,2006,17.3
+Entertainment,Live Sports,2007,19
+Entertainment,Live Sports,2008,19.4
+Entertainment,Live Sports,2009,18.8
+Entertainment,Live Sports,2010,19.2
+Entertainment,Live Sports,2011,20
+Entertainment,Live Sports,2012,18.7
+Entertainment,Museums and libraries,2000,3.8
+Entertainment,Museums and libraries,2001,4.1
+Entertainment,Museums and libraries,2002,4.8
+Entertainment,Museums and libraries,2003,5.2
+Entertainment,Museums and libraries,2004,5.6
+Entertainment,Museums and libraries,2005,6.4
+Entertainment,Museums and libraries,2006,6.5
+Entertainment,Museums and libraries,2007,6.2
+Entertainment,Museums and libraries,2008,6.2
+Entertainment,Museums and libraries,2009,6.1
+Entertainment,Museums and libraries,2010,6.1
+Entertainment,Museums and libraries,2011,6.3
+Entertainment,Museums and libraries,2012,6.1
+Household,Print media,2000,81
+Household,Print media,2001,79.8
+Household,Print media,2002,80.7
+Household,Print media,2003,81.6
+Household,Print media,2004,83.7
+Household,Print media,2005,85
+Household,Print media,2006,86.2
+Household,Print media,2007,84.8
+Household,Print media,2008,85.5
+Household,Print media,2009,84.6
+Household,Print media,2010,89.9
+Household,Print media,2011,95.1
+Household,Print media,2012,100.9
+Vices,Gambling,2000,67.6
+Vices,Gambling,2001,70
+Vices,Gambling,2002,74.1
+Vices,Gambling,2003,81.3
+Vices,Gambling,2004,90.1
+Vices,Gambling,2005,96.5
+Vices,Gambling,2006,104.7
+Vices,Gambling,2007,110
+Vices,Gambling,2008,110.2
+Vices,Gambling,2009,105
+Vices,Gambling,2010,105.6
+Vices,Gambling,2011,108.9
+Vices,Gambling,2012,112.5
+Household,"Pets, pet products, and related services",2000,39.7
+Household,"Pets, pet products, and related services",2001,41.9
+Household,"Pets, pet products, and related services",2002,44.6
+Household,"Pets, pet products, and related services",2003,47.9
+Household,"Pets, pet products, and related services",2004,52.3
+Household,"Pets, pet products, and related services",2005,57.2
+Household,"Pets, pet products, and related services",2006,62.6
+Household,"Pets, pet products, and related services",2007,68.9
+Household,"Pets, pet products, and related services",2008,73.1
+Household,"Pets, pet products, and related services",2009,73.3
+Household,"Pets, pet products, and related services",2010,75.9
+Household,"Pets, pet products, and related services",2011,79.5
+Household,"Pets, pet products, and related services",2012,85.1
+Education,Higher Education,2000,76.8
+Education,Higher Education,2001,82.9
+Education,Higher Education,2002,87
+Education,Higher Education,2003,95
+Education,Higher Education,2004,102.5
+Education,Higher Education,2005,110.9
+Education,Higher Education,2006,119.7
+Education,Higher Education,2007,128.3
+Education,Higher Education,2008,136.9
+Education,Higher Education,2009,146.7
+Education,Higher Education,2010,158.3
+Education,Higher Education,2011,170.6
+Education,Higher Education,2012,182.4
+Education,Pre-K - Elementary School,2000,24.1
+Education,Pre-K - Elementary School,2001,25.7
+Education,Pre-K - Elementary School,2002,26.9
+Education,Pre-K - Elementary School,2003,27.7
+Education,Pre-K - Elementary School,2004,28.6
+Education,Pre-K - Elementary School,2005,29.6
+Education,Pre-K - Elementary School,2006,31
+Education,Pre-K - Elementary School,2007,32.8
+Education,Pre-K - Elementary School,2008,34.1
+Education,Pre-K - Elementary School,2009,34.8
+Education,Pre-K - Elementary School,2010,35.3
+Education,Pre-K - Elementary School,2011,37
+Education,Pre-K - Elementary School,2012,37.8
+Education,Vo-Tech Schools,2000,24.3
+Education,Vo-Tech Schools,2001,25.8
+Education,Vo-Tech Schools,2002,26
+Education,Vo-Tech Schools,2003,27
+Education,Vo-Tech Schools,2004,28.1
+Education,Vo-Tech Schools,2005,30.3
+Education,Vo-Tech Schools,2006,32.7
+Education,Vo-Tech Schools,2007,35.5
+Education,Vo-Tech Schools,2008,37.9
+Education,Vo-Tech Schools,2009,38.4
+Education,Vo-Tech Schools,2010,42
+Education,Vo-Tech Schools,2011,43.3
+Education,Vo-Tech Schools,2012,44.7
+Entertainment,Purchased Meals,2000,344.9
+Entertainment,Purchased Meals,2001,358.4
+Entertainment,Purchased Meals,2002,373.6
+Entertainment,Purchased Meals,2003,394.4
+Entertainment,Purchased Meals,2004,421.2
+Entertainment,Purchased Meals,2005,446
+Entertainment,Purchased Meals,2006,472.3
+Entertainment,Purchased Meals,2007,494.9
+Entertainment,Purchased Meals,2008,508.7
+Entertainment,Purchased Meals,2009,502.3
+Entertainment,Purchased Meals,2010,516.9
+Entertainment,Purchased Meals,2011,550.8
+Entertainment,Purchased Meals,2012,587.1
+Travel,Accommodations,2000,55
+Travel,Accommodations,2001,52.1
+Travel,Accommodations,2002,53.3
+Travel,Accommodations,2003,57.3
+Travel,Accommodations,2004,64.4
+Travel,Accommodations,2005,72.5
+Travel,Accommodations,2006,80
+Travel,Accommodations,2007,86
+Travel,Accommodations,2008,88.8
+Travel,Accommodations,2009,82.4
+Travel,Accommodations,2010,85.5
+Travel,Accommodations,2011,91.1
+Travel,Accommodations,2012,97.5
+Financial Services,Financial Services,2000,185.4
+Financial Services,Financial Services,2001,178.1
+Financial Services,Financial Services,2002,179.1
+Financial Services,Financial Services,2003,183.5
+Financial Services,Financial Services,2004,200.9
+Financial Services,Financial Services,2005,216.1
+Financial Services,Financial Services,2006,221.8
+Financial Services,Financial Services,2007,236.6
+Financial Services,Financial Services,2008,241.2
+Financial Services,Financial Services,2009,229.4
+Financial Services,Financial Services,2010,248.9
+Financial Services,Financial Services,2011,259.7
+Financial Services,Financial Services,2012,259.1
+Financial Services,Financial Service Fees,2000,174.6
+Financial Services,Financial Service Fees,2001,163.1
+Financial Services,Financial Service Fees,2002,168.2
+Financial Services,Financial Service Fees,2003,174
+Financial Services,Financial Service Fees,2004,186.5
+Financial Services,Financial Service Fees,2005,201.4
+Financial Services,Financial Service Fees,2006,224.3
+Financial Services,Financial Service Fees,2007,243.8
+Financial Services,Financial Service Fees,2008,245.4
+Financial Services,Financial Service Fees,2009,222.9
+Financial Services,Financial Service Fees,2010,224.4
+Financial Services,Financial Service Fees,2011,230.6
+Financial Services,Financial Service Fees,2012,237
+Household,Life Insurance,2000,65
+Household,Life Insurance,2001,61.9
+Household,Life Insurance,2002,58.8
+Household,Life Insurance,2003,60.4
+Household,Life Insurance,2004,72.1
+Household,Life Insurance,2005,79
+Household,Life Insurance,2006,84.1
+Household,Life Insurance,2007,87.5
+Household,Life Insurance,2008,87.5
+Household,Life Insurance,2009,80
+Household,Life Insurance,2010,87.6
+Household,Life Insurance,2011,100.6
+Household,Life Insurance,2012,103.3
+Household,Household Insurance,2000,3.8
+Household,Household Insurance,2001,4.2
+Household,Household Insurance,2002,4.3
+Household,Household Insurance,2003,4.9
+Household,Household Insurance,2004,5.8
+Household,Household Insurance,2005,6.2
+Household,Household Insurance,2006,6.1
+Household,Household Insurance,2007,7.4
+Household,Household Insurance,2008,8.1
+Household,Household Insurance,2009,7.3
+Household,Household Insurance,2010,7.6
+Household,Household Insurance,2011,8
+Household,Household Insurance,2012,8.1
+Health,Health Insurance,2000,94.4
+Health,Health Insurance,2001,101.1
+Health,Health Insurance,2002,106.5
+Health,Health Insurance,2003,116.7
+Health,Health Insurance,2004,116.5
+Health,Health Insurance,2005,129.4
+Health,Health Insurance,2006,130.6
+Health,Health Insurance,2007,131.3
+Health,Health Insurance,2008,127.4
+Health,Health Insurance,2009,119.4
+Health,Health Insurance,2010,135.8
+Health,Health Insurance,2011,143.3
+Health,Health Insurance,2012,154.5
+Vehicles,Auto Insurance,2000,43.1
+Vehicles,Auto Insurance,2001,44.4
+Vehicles,Auto Insurance,2002,45.7
+Vehicles,Auto Insurance,2003,49.1
+Vehicles,Auto Insurance,2004,53.5
+Vehicles,Auto Insurance,2005,57.6
+Vehicles,Auto Insurance,2006,57.2
+Vehicles,Auto Insurance,2007,62
+Vehicles,Auto Insurance,2008,62
+Vehicles,Auto Insurance,2009,60
+Vehicles,Auto Insurance,2010,58.9
+Vehicles,Auto Insurance,2011,58.9
+Vehicles,Auto Insurance,2012,59
+Giving,Social and Religious Services,2000,81.1
+Giving,Social and Religious Services,2001,88.4
+Giving,Social and Religious Services,2002,93.4
+Giving,Social and Religious Services,2003,98.6
+Giving,Social and Religious Services,2004,104.1
+Giving,Social and Religious Services,2005,110.2
+Giving,Social and Religious Services,2006,116.8
+Giving,Social and Religious Services,2007,124.6
+Giving,Social and Religious Services,2008,130.1
+Giving,Social and Religious Services,2009,133.2
+Giving,Social and Religious Services,2010,138.9
+Giving,Social and Religious Services,2011,143.7
+Giving,Social and Religious Services,2012,147.3
+Vices,Tobacco,2000,68.5
+Vices,Tobacco,2001,69.7
+Vices,Tobacco,2002,70.1
+Vices,Tobacco,2003,70.5
+Vices,Tobacco,2004,73.7
+Vices,Tobacco,2005,76.7
+Vices,Tobacco,2006,81
+Vices,Tobacco,2007,84.3
+Vices,Tobacco,2008,86.4
+Vices,Tobacco,2009,99.5
+Vices,Tobacco,2010,106.3
+Vices,Tobacco,2011,108.3
+Vices,Tobacco,2012,108.8
+Travel,Foreign Travel,2000,81.8
+Travel,Foreign Travel,2001,77.9
+Travel,Foreign Travel,2002,75.5
+Travel,Foreign Travel,2003,76.8
+Travel,Foreign Travel,2004,89.3
+Travel,Foreign Travel,2005,94.9
+Travel,Foreign Travel,2006,100.8
+Travel,Foreign Travel,2007,104.1
+Travel,Foreign Travel,2008,109.9
+Travel,Foreign Travel,2009,97.9
+Travel,Foreign Travel,2010,103.4
+Travel,Foreign Travel,2011,105.8
+Travel,Foreign Travel,2012,110
